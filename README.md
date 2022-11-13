@@ -1,5 +1,5 @@
 - 👋 Hi, I’m zhongzero
-- 🐔 I'm now studying in SJTU, Shanghai
+- 🐔 I'm currently studying in SJTU, Shanghai
 - 🌱 I'm currently learning System
 - 📫 How to reach me —— vx:zhong__zero
 
