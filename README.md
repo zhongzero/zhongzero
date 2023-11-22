@@ -1,6 +1,6 @@
 - 👋 Hi, I’m zhongzero
 - 🐔 I'm currently studying in SJTU, Shanghai
-- 🌱 I'm currently learning System
+- 🌱 I'm currently learning and working on txt2img generation
 - 📫 How to reach me —— vx:zhong__zero
 
 <!---
